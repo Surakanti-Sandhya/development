@@ -1,0 +1,62 @@
+#header	 { width:1360px;
+			height:90px;
+		    background-color:#0080c0
+			 }
+
+#logo {		width:1370px;
+			height:120px;
+			float:right;
+		    background-color:#0080c0;
+			background-image:url('logo/anurag logo.PNG');
+			background-repeat:no-repeat
+			}
+#cont		{ width:1350px;
+			  height:540px;
+			  font-size:20px;
+			  margin:40px 0px 0px 0px
+			  }
+
+
+#contents	{ width:1350px;
+			  height:440px;
+			  font-size:20px;
+			  margin:40px 0px 0px 0px
+			  }
+			  
+			
+#footer		{ width:1360px;
+			  height:50px;
+			 background-color:#c0c0c0
+			}
+			
+ h1		{ color:white;
+		 float:left;
+	      padding-top:5px;
+		  padding-left:20px}
+a       {color:white;
+		 float:right;
+		 padding:30px 90px 0px 0px;
+		 font-size:25px;
+		 }
+
+h3   {
+		padding-top:10px
+		}
+
+strong { font-size:50px}
+#login { font-size:15px;
+		float:center;
+		margin:0px 150px 0px 0px;
+		background-color:#c0c0c0
+		}
+
+
+input {
+		font-size:15px;
+		float:center;
+		margin:5px 30px 0px 0px;
+		padding:10px 10px 10px 10px}
+
+#clickhere { color:blue;
+			font-size:20px;
+			padding:0px 650px 0px 0px }
